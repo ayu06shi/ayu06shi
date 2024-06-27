@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayushi Nayan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayu06shi&label=Profile%20views&color=0e75b6&style=flat" alt="ayu06shi" /> </p>
-This is Ayushi Nayan. My journey in web development has been fueled by a genuine love for coding. Proficient in HTML, CSS, JavaScript, and other frontend frameworks like React, I thrive on translating designs into responsive, pixel-perfect web applications. Seeking new opportunities to collaborate on exciting projects and contribute my expertise to innovative teams.
+
 
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif"></img>
 
 - 🔭 I’m currently working on MERN stack backend web development.
 - 🌱 I’m currently learning node.js, express.js, and other backend technologies.
-- 🤔 I’m looking for help with backend web development
-- 💬 Ask me about Frontend Web Development, Designing (HTML, CSS, Bootstrap, JavaScript).
+- 💬 Ask me about Frontend Web Development, Designing.
 - 📫 How to reach me: ayu06022002@gmail.com
 
 - ⚡ Fun fact **Human blood pressure goes down when petting a dog. And so does the dog’s.**
