@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif"></img>
 
-- 🔭 I’m currently working on MERN stack backend web development.
+- 🔭 I’m currently working on MERN stack development.
 - 🌱 I’m currently learning node.js, express.js, and other backend technologies.
 - 💬 Ask me about Frontend Web Development, Designing.
 - 📫 How to reach me: ayu06022002@gmail.com
